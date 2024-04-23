@@ -1,4 +1,4 @@
-<div><a href="https://www.risuvo.com"><img src="https://github.com/risuvoo/risuvoo/blob/main/public/cover-4.png" alt="Cover" width="100%"></a></div>
+<div><a href="https://www.risuvo.com"><img src="https://github.com/risuvoo/risuvoo/blob/main/public/cover-.png" alt="Cover" width="100%"></a></div>
 <br>
 <br>
 Striving to help Design Websites, Apps & Admin Dashboard. I have <b>6+</b> years of experience in this Platform. I have already completed <b>70+</b> UI / Visual Design, UX Design / Research, and Web Design products for Marketplaces and Client Projects.
@@ -34,23 +34,9 @@ Striving to help Design Websites, Apps & Admin Dashboard. I have <b>6+</b> years
 ![Nuxt.js](https://img.shields.io/badge/-nuxt.js-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117)&nbsp;
 ![Nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
 
-![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![alpine.js](https://img.shields.io/badge/-alpine.js-0D1117?style=for-the-badge&logo=alpinedotjs&labelColor=0D1117)&nbsp;
-![Gatsby.js](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&logoColor=1572B6&labelColor=0D1117)&nbsp;
 <br>
 
-### 🚀 Studying in this moment:
 
-<!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) -->
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 <br>
 <details>
  <summary>🏆 GitHub Profile Trophy</summary>
