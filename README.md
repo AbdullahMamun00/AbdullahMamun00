@@ -10,20 +10,17 @@ Striving to help Design Websites, Apps & Admin Dashboard. I have <b>6+</b> years
  - 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>
 - 👨‍💻 All of my projects are available at [[Dribble](https://dribbble.com/mamunuiux))
 
-<a href="https://www.risuvo.com">
+<a href="https://www.mamunuiux.com">
   <img align="left" alt="risuvo" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/risuvoo">
+<a href="(https://www.linkedin.com/in/mamunuiux/)">
   <img align="left" alt="RI Suvo | LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/risuvooo">
+<a href="https://twitter.com/mamunuiux">
   <img align="left" alt="RI Suvo | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com">
   <img align="left" alt="Rafiqul Islam Suvo | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/risuvoo">
-  <img align="left" alt="Rafiqul Islam Suvo| Mail" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <br>
