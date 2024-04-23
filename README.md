@@ -8,7 +8,7 @@ Striving to help Design Websites, Apps & Admin Dashboard. I have <b>6+</b> years
 - - 🥅 2024 Goals: Want to be a Product Designer.
 - I always like working on problem-solving for any Product.
  - 📫 Reach me via <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rafiqulislamsuvobd@gmail.com"><b>Email</b> </a>
-- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/risuvoo?tab=repositories](https://dribbble.com/mamunuiux))
+- 👨‍💻 All of my projects are available at [[Dribble](https://dribbble.com/mamunuiux))
 
 <a href="https://www.risuvo.com">
   <img align="left" alt="risuvo" src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=web&logoColor=white" />
